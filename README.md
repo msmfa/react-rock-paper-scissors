@@ -1,6 +1,6 @@
 ## React Tutorial
 
-Build a simple "tic-tak-toe" game and learn React. This tutotial was taken from the official React website. A simple projet aimed at teaching the fundamentals of React.
+Build a simple "tic-tak-toe" game and learn React. This tutotial was taken from the official React website. A simple project aimed at teaching the fundamentals of React.
 
 ## Deployment
 
