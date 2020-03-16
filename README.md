@@ -22,7 +22,8 @@ _...screenshot_
 - What is React?
 - What does React offer over a not using a framework?
 - Using state and components
-- "this" keyword in Javascript and it's implementation in React.
+- "this" keyword in Javascript and it's implementation in React
+- Props
 
 ## Authors
 
