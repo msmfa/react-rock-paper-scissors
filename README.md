@@ -4,7 +4,7 @@ Build a simple "tic-tak-toe" game and learn React. This tutotial was taken from 
 
 ## Deployment
 
-N/A
+Testing Git
 
 ## App in Action
 
