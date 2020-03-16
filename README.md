@@ -4,11 +4,11 @@ Build a simple "tic-tak-toe" game and learn React. This tutotial was taken from 
 
 ## Deployment
 
-\*...link to site/what to download/what to install
+N/A
 
 ## App in Action
 
-_...screenshot_
+N/A
 
 ## Build Tools & Languages
 
